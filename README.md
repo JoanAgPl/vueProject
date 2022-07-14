@@ -1,4 +1,4 @@
-# API de pruebas para HEROKU
+# API de pruebas para  GITHUB
 ## Sesion 20220711
 ### Pasos a seguir:
 1. crear aplicacion
